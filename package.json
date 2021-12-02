@@ -1,0 +1,26 @@
+{
+  "name": "user-app",
+  "version": "1.0.0",
+  "description": "'Microservices with Express.Js (Node.Js Framework) and Mongoose'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/firyal-salsa/User-App.git"
+  },
+  "keywords": [
+    "microservices"
+  ],
+  "author": "Firyal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/firyal-salsa/User-App/issues"
+  },
+  "homepage": "https://github.com/firyal-salsa/User-App#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.14"
+  }
+}
