@@ -8,8 +8,11 @@
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" width="130vw" height="60vw">
   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" width="130vw" height="60vw">
+  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" width="130vw" height="60vw">
+  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" width="130vw" height="60vw">
+  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" width="130vw" height="60vw">
 </div>
 </p>
