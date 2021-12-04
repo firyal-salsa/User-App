@@ -1,10 +1,10 @@
 {
-  "name": "user-app",
+  "name": "firyal",
   "version": "1.0.0",
   "description": "'Microservices with Express.Js (Node.Js Framework) and Mongoose'",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon app.js"
   },
   "repository": {
     "type": "git",
@@ -20,7 +20,16 @@
   },
   "homepage": "https://github.com/firyal-salsa/User-App#readme",
   "dependencies": {
+    "bcrypt": "^5.0.1",
+    "dotenv": "^10.0.0",
     "express": "^4.17.1",
-    "mongoose": "^6.0.14"
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.0.14",
+    "mongoose-type-email": "^1.1.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.15",
+    "swagger-jsdoc": "^6.1.0",
+    "swagger-ui-express": "^4.2.0",
+    "winston": "^3.3.3"
   }
 }
