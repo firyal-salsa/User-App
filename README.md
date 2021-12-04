@@ -1,6 +1,6 @@
 # Simple User App using ExpressJS and MongoDB
 
-<img align="center" src="https://res.cloudinary.com/dvehyvk3d/image/upload/v1634289445/tech%20stack/express_xmzka6.svg" width="500vw" height="500vw">
+<img style="align:center" src="https://res.cloudinary.com/dvehyvk3d/image/upload/v1634289445/tech%20stack/express_xmzka6.svg" width="5400vw" height="400vw">
 
 
 ## Executing
