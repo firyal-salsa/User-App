@@ -4,7 +4,7 @@
 
 <p align="center">CRUD User Web Application using <b>Express.Js</b> and <b>MongoDB</b> deploy automation</b> Docker <br/><br/> Provide API to generate the token.
 <div class="d-flex" style="word-spacing:30px">
-  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  
+  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" width="130vw" height="60vw">
   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" width="130vw" height="60vw">
