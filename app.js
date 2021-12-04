@@ -35,7 +35,7 @@ const specs = swaggerJsDoc(options);
 server.use("/api-docs", swaggerUI.serve, swaggerUI.setup(specs));
     
 mongoose
-    .connect('mongodb://localhost:27017/test', {useNewUrlParser:true, useUnifiedTopology:true})
+    .connect('mongodb://27017', {useNewUrlParser:true, useUnifiedTopology:true})
     .then(() => {
         server.listen(PORT, () => {
             console.log(`Connection to db`)
